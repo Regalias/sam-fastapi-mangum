@@ -13,7 +13,7 @@ Generic SAM template project
 
 1. Build
 ```sh
-sam build
+sam build --use-container
 ```
 
 2. Deploy
